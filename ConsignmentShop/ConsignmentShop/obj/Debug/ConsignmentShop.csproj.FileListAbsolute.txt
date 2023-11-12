@@ -1,0 +1,41 @@
+C:\Users\Ivan Bilokapic\Desktop\git\ConsignmentShop\ConsignmentShop\bin\Debug\ConsignmentShop.exe.config
+C:\Users\Ivan Bilokapic\Desktop\git\ConsignmentShop\ConsignmentShop\bin\Debug\ConsignmentShop.exe
+C:\Users\Ivan Bilokapic\Desktop\git\ConsignmentShop\ConsignmentShop\bin\Debug\ConsignmentShop.pdb
+C:\Users\Ivan Bilokapic\Desktop\git\ConsignmentShop\ConsignmentShop\bin\Debug\ConsignmentShopLibrary.dll
+C:\Users\Ivan Bilokapic\Desktop\git\ConsignmentShop\ConsignmentShop\bin\Debug\ConsignmentShopLibrary.pdb
+C:\Users\Ivan Bilokapic\Desktop\git\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.csproj.AssemblyReference.cache
+C:\Users\Ivan Bilokapic\Desktop\git\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan Bilokapic\Desktop\git\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.ConsignmentShop.resources
+C:\Users\Ivan Bilokapic\Desktop\git\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.Properties.Resources.resources
+C:\Users\Ivan Bilokapic\Desktop\git\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.csproj.GenerateResource.cache
+C:\Users\Ivan Bilokapic\Desktop\git\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Bilokapic\Desktop\git\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.csproj.CopyComplete
+C:\Users\Ivan Bilokapic\Desktop\git\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.exe
+C:\Users\Ivan Bilokapic\Desktop\git\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.pdb
+C:\Users\Ivan Bilokapic\Desktop\ConsignmentShop\ConsignmentShop\bin\Debug\ConsignmentShop.exe.config
+C:\Users\Ivan Bilokapic\Desktop\ConsignmentShop\ConsignmentShop\bin\Debug\ConsignmentShop.exe
+C:\Users\Ivan Bilokapic\Desktop\ConsignmentShop\ConsignmentShop\bin\Debug\ConsignmentShop.pdb
+C:\Users\Ivan Bilokapic\Desktop\ConsignmentShop\ConsignmentShop\bin\Debug\ConsignmentShopLibrary.dll
+C:\Users\Ivan Bilokapic\Desktop\ConsignmentShop\ConsignmentShop\bin\Debug\ConsignmentShopLibrary.pdb
+C:\Users\Ivan Bilokapic\Desktop\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.csproj.AssemblyReference.cache
+C:\Users\Ivan Bilokapic\Desktop\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan Bilokapic\Desktop\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.ConsignmentShop.resources
+C:\Users\Ivan Bilokapic\Desktop\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.Properties.Resources.resources
+C:\Users\Ivan Bilokapic\Desktop\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.csproj.GenerateResource.cache
+C:\Users\Ivan Bilokapic\Desktop\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Bilokapic\Desktop\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.csproj.CopyComplete
+C:\Users\Ivan Bilokapic\Desktop\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.exe
+C:\Users\Ivan Bilokapic\Desktop\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.pdb
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\ConsignmentShop\ConsignmentShop\bin\Debug\ConsignmentShop.exe.config
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\ConsignmentShop\ConsignmentShop\bin\Debug\ConsignmentShop.exe
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\ConsignmentShop\ConsignmentShop\bin\Debug\ConsignmentShop.pdb
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\ConsignmentShop\ConsignmentShop\bin\Debug\ConsignmentShopLibrary.dll
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\ConsignmentShop\ConsignmentShop\bin\Debug\ConsignmentShopLibrary.pdb
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.ConsignmentShop.resources
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.Properties.Resources.resources
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.csproj.CopyComplete
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.exe
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.pdb

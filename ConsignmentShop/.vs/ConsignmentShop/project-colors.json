@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d514e028-4bd6-4f4c-b072-11b67336b311": {
+      "ProjectGuid": "d514e028-4bd6-4f4c-b072-11b67336b311",
+      "DisplayName": "ConsignmentShop",
+      "ColorIndex": 0
+    },
+    "c23f15d0-1de6-4e7e-bfa8-8a418c296973": {
+      "ProjectGuid": "c23f15d0-1de6-4e7e-bfa8-8a418c296973",
+      "DisplayName": "ConsignmentShopLibrary",
+      "ColorIndex": 1
+    },
+    "1ce86d3c-de23-4ef5-a43c-42a8d235ad5c": {
+      "ProjectGuid": "1ce86d3c-de23-4ef5-a43c-42a8d235ad5c",
+      "DisplayName": "ConsignmentShopLibrary",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

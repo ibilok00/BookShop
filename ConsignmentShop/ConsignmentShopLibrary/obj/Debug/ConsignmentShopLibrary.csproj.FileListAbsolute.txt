@@ -1,0 +1,18 @@
+C:\Users\Ivan Bilokapic\Desktop\git\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\ConsignmentShopLibrary.dll
+C:\Users\Ivan Bilokapic\Desktop\git\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\ConsignmentShopLibrary.pdb
+C:\Users\Ivan Bilokapic\Desktop\git\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.csproj.AssemblyReference.cache
+C:\Users\Ivan Bilokapic\Desktop\git\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Bilokapic\Desktop\git\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.dll
+C:\Users\Ivan Bilokapic\Desktop\git\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.pdb
+C:\Users\Ivan Bilokapic\Desktop\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\ConsignmentShopLibrary.dll
+C:\Users\Ivan Bilokapic\Desktop\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\ConsignmentShopLibrary.pdb
+C:\Users\Ivan Bilokapic\Desktop\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.csproj.AssemblyReference.cache
+C:\Users\Ivan Bilokapic\Desktop\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Bilokapic\Desktop\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.dll
+C:\Users\Ivan Bilokapic\Desktop\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.pdb
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\ConsignmentShopLibrary.dll
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\ConsignmentShopLibrary.pdb
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.dll
+C:\Users\Ivan\Desktop\git\mini_CSharp_projects\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.pdb
